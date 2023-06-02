@@ -6,6 +6,6 @@ Curiosity is very important for the learning process, which is what motivates me
 
 > "It always seems impossible until it's done." - Nelson Mandela
 
-[![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pdpan0&theme=monokai&layout=donut)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdpan0&theme=monokai&show_icons=true&custom_title=Stats&rank_icon=github)]()
+[![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pdpan0&theme=monokai&layout=donut)](github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdpan0&theme=monokai&show_icons=true&custom_title=Stats&rank_icon=github)](github-readme-stats)
 ###
